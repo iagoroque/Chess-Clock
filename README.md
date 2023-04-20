@@ -40,7 +40,7 @@ Para jogar, siga os seguintes passos:
 
 4. Para reiniciar o jogo, você pode clicar no botão "Restart" e para encerrar o jogo imediatamente, clique no botão "STOP";
 
-5. Quando você clica em stop também aparece no console da sua IDE quanto tempo de jogo teve os jogadores da partida,além do tempo total jogado;
+5. Quando você clica em stop também aparece no console da sua IDE quanto tempo de jogo teve os jogadores da partida, além do tempo total jogado;
 
 ### Conclusão:
 
