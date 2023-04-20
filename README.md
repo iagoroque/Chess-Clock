@@ -22,8 +22,9 @@ Before starting to play, it is important to know that this chess clock only func
 
 This Java project offers a simple and easy-to-use chess clock to help control the time of each player in chess games. Follow the instructions to start playing!
 
+##
 
-## 🇧🇷 PT-BR:
+### 🇧🇷 PT-BR:
 
 ### Como jogar:
 
