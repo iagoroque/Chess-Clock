@@ -32,13 +32,13 @@ Antes de começar a jogar, é importante saber que este relógio de xadrez só f
 
 Para jogar, siga os seguintes passos:
 
-1.Abra a IDE de sua preferencia e de un run na aplicação
+1.Abra a IDE de sua preferencia e dê um run na aplicação
 
 2.Na tela do console, você verá dois espaços de cada jogador quando clicar em um desses espaços vazios o tempo começa a ser contado. Quando um jogador fizer uma jogada, ele pode parar o seu tempo clicando em cima do seu temporizador,isso fará com que o contador do outro jogador continue a partir do tempo em que parou.
 
-3.Quando o tempo de um dos jogadores acabar, somento relogio do jogador que ainda tem tempo continua,chegando em 0,e as unicas opções possiveis agora é a de STOP e RESTART
+3.Quando o tempo de um dos jogadores acabar, somento o relógio do jogador que ainda tem tempo continua,chegando em 0,e as unicas opções possiveis agora é a de STOP e RESTART
 
-4.Para reiniciar o jogo, você pode clicar no botão "Restart" . Para encerrar o jogo imediatamente, clique no botão "STOP"
+4.Para reiniciar o jogo, você pode clicar no botão "Restart" e para encerrar o jogo imediatamente, clique no botão "STOP"
 
 5.Quando você clica em stop também aparece no console da sua IDE quanto tempo de jogo teve os jogadores da partida,além do tempo total jogado.
 
